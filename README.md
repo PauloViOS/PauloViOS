@@ -11,6 +11,9 @@
     <a href="https://twitter.com/paulovios">
       <img src="https://img.shields.io/badge/follow%20me-black?style=for-the-badge&logo=X&logoColor=white&color=black" alt="Twitter Badge"/>
     </a>
+    <a href="mailto:pv8592@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=paulovios&style=plastic-square&color=brightgreen" alt=""/>
